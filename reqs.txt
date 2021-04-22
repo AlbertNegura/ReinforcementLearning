@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+tensorflow
+tensorflow-gpu
+keras-rl2
+gym
+gym[atari]
